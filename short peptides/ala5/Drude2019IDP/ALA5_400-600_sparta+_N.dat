@@ -1,0 +1,7 @@
+#RMS error: 2.10
+Res	Exp_CS	Sim_CS	Sim_err
+A1	NA	NA	NA
+A2	-0.12	-1.60	0.11
+A3	0.41	-1.60	1.02
+A4	-0.03	-2.67	1.21
+A5	0.70	0.00	0.00
