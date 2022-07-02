@@ -1,0 +1,5 @@
+#RMS error: 0.17
+Res	Exp_CS	Sim_CS	Sim_err
+V1	0.79	0.00	0.00
+V2	0.72	0.55	0.25
+V3	0.41	0.00	0.00

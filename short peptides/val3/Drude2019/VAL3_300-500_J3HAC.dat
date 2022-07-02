@@ -1,0 +1,5 @@
+#RMS error: 0.50
+Res	Exp_jcoup	Sim_jcoup	Sim_err
+V1	NA	NA	NA
+V2	2.42	1.92	0.04
+V3	2.45	2.44	0.09
